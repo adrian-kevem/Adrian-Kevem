@@ -10,10 +10,6 @@
   <img align="center" alt="adrian-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="adrian-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="adrian-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="adrian-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="adrian-React-Native" height="30" width="30" src="https://alunos.b7web.com.br/media/courses/logo/react-native.jpg">
-  <img align="center" alt="adrian-PHP" height="30" width="30" src="https://alunos.b7web.com.br/media/courses/logo/php.jpg">
-  <img align="center" alt="adrian-Laravel" height="30" width="30" src="https://alunos.b7web.com.br/media/courses/logo/laravel.jpg">
 </div>
   
   ##
