@@ -4,7 +4,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrian-kevem&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="adrian-Python" height="30" width="35" src="https://img.icons8.com/fluency/2x/python.png">
+  <img align="center" alt="adrian-Python" height="30" width="32" src="https://img.icons8.com/fluency/2x/python.png">
+  
 </div>
   
   ##
